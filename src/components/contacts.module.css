@@ -1,0 +1,29 @@
+.table {
+  border: 1px solid lightgrey;
+}
+
+.errorTable {
+  border: 1px solid red;
+  border-collapse: collapse; 
+}
+
+.errorTable tr {
+  border: 1px solid white;
+}
+
+.errorTable tr:nth-child(even) {
+  background-color: #999;
+}
+
+.profilePic {
+  height: 100px;
+}
+
+.title{
+
+  font-weight: bold;
+}
+
+.head{
+  color: blue;
+}
